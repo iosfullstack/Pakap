@@ -1,2 +1,2 @@
 # Pakap
-https://singular-biscuit-ed4c25.netlify.app/
+https://sparkling-souffle-a8afe7.netlify.app/
